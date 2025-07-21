@@ -49,7 +49,7 @@ Aimed at reducing dwell times and improving outbound flow, this dashboard highli
 
 ## 📄 PDF Summary
 
-[📎 Click to view the 1-page project summary (PDF)](./Truck_Shipment_Dashboard_Summary_Jacob_Lee.pdf)
+📎 See the file Truck_Shipment_Dashboard_Summary_Jacob_Lee.pdf above to view the full dashboard summary.
 
 > _Note: All data used in this project is either anonymized or generated for demonstration purposes only._
 
